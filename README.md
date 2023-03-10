@@ -1,4 +1,4 @@
-# HoneyBager
+# HoneyBadger
 Create a production-ready web endpoint that accepts a JSON payload as a POST request and sends an alert to a Slack channel if the payload matches desired criteria. This project should be straight-forward 
 
 #SOLUTION
